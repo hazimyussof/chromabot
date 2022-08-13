@@ -1,0 +1,1 @@
+This STL file is designed by Dejan from HowToMechatronics. It is an open-source 3D printable Robotic Arm which can be found on the THANGS website: https://thangs.com/designer/m/3d-model/38899
